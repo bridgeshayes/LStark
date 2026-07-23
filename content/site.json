@@ -6,13 +6,13 @@
   "hero": {
     "eyebrow": "ON DEADLINE — AVAILABLE FOR ASSIGNMENT",
     "title": "Sports Correspondent",
-    "tagline": "Chasing the story past the final whistle — across football Sundays, NBA overtimes, pit lane, and everything in between."
+    "tagline": "The story between the whitles - across the NFL, NBA, NHL, and everything in between."
   },
   "stats": [
-    { "num": "4", "label": "Years on Beat" },
-    { "num": "240+", "label": "Bylines" },
+    { "num": "3", "label": "Years on Beat" },
+    { "num": "50+", "label": "Bylines" },
     { "num": "9", "label": "Sports Covered" },
-    { "num": "3", "label": "Press Credentials" }
+    { "num": "30+", "label": "Press Credentials" }
   ],
   "about": {
     "photo": "/images/logan.jpg",
@@ -20,10 +20,10 @@
     "name": "Logan Starkey",
     "role": "Sports Correspondent",
     "paragraphs": [
-      "I started out covering high school football for a paper that no longer exists, and I've spent every year since chasing the same feeling: the moment a locker room stops performing for the cameras and starts telling the truth.",
-      "Six years in, I've filed from press boxes, pit lanes, and one particularly cold speed-skating oval, always looking for the person the broadcast doesn't have time for."
+      "I was scrolling through my college catalog one day when I saw my school's sports journalism program. Less than a week later, I'd changed my major and decided to pursue my biggest passions: sports and writing.",
+      "Three years in, I've covered nine different sports and interviewed countless athletes, coaches, and administrators."
     ],
-    "pullQuote": "The scoreboard tells you what happened. My job is to tell you why it mattered.",
+    "pullQuote": "The scoreboard tells you what team won. My job is to tell you the who, how, and why of what made them win.",
     "tags": [
       "Feature Writing",
       "Beat Reporting",
