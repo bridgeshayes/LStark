@@ -1,0 +1,44 @@
+{
+  "brand": {
+    "first": "LOGAN",
+    "last": "STARKEY"
+  },
+  "hero": {
+    "eyebrow": "ON DEADLINE — AVAILABLE FOR ASSIGNMENT",
+    "title": "Sports Correspondent",
+    "tagline": "Chasing the story past the final whistle — across football Sundays, NBA overtimes, pit lane, and everything in between."
+  },
+  "stats": [
+    { "num": "6", "label": "Years on Beat" },
+    { "num": "240+", "label": "Bylines" },
+    { "num": "9", "label": "Sports Covered" },
+    { "num": "3", "label": "Press Credentials" }
+  ],
+  "about": {
+    "initials": "LS",
+    "name": "Logan Starkey",
+    "role": "Sports Correspondent",
+    "paragraphs": [
+      "I started out covering high school football for a paper that no longer exists, and I've spent every year since chasing the same feeling: the moment a locker room stops performing for the cameras and starts telling the truth.",
+      "Six years in, I've filed from press boxes, pit lanes, and one particularly cold speed-skating oval, always looking for the person the broadcast doesn't have time for."
+    ],
+    "pullQuote": "The scoreboard tells you what happened. My job is to tell you why it mattered.",
+    "tags": [
+      "Feature Writing",
+      "Beat Reporting",
+      "Long-Form",
+      "Data-Driven Storytelling",
+      "Live Game Coverage",
+      "AP Style"
+    ]
+  },
+  "contact": {
+    "nameplate": "L. STARKEY",
+    "sub": "Open to staff, freelance, and stringer assignments — remote or on the road.",
+    "links": [
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/logan-starkey-5aa513292/" },
+      { "label": "Twitter / X", "url": "https://x.com/LoganStarkJourn" }
+    ]
+  },
+  "footer": "© 2026 LOGAN STARKEY — BUILT FOR THE NEXT ASSIGNMENT"
+}

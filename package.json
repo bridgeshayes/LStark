@@ -1,0 +1,24 @@
+{
+  "name": "logan-starkey-sports",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "16.2.11",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "gray-matter": "^4.0.3",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0",
+    "eslint-config-next": "16.2.11",
+    "@eslint/eslintrc": "^3.2.0"
+  }
+}
