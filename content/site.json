@@ -15,6 +15,7 @@
     { "num": "3", "label": "Press Credentials" }
   ],
   "about": {
+    "photo": "/images/logan.jpg",
     "initials": "LS",
     "name": "Logan Starkey",
     "role": "Sports Correspondent",

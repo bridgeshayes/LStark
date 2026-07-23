@@ -39,6 +39,19 @@ Articles are sorted newest-first automatically based on `date`. The homepage tic
 
 All of that lives in `content/site.json` — edit the values there, no code involved.
 
+## Adding a photo to the About section
+
+Drop an image file into `public/images/` (e.g. `public/images/logan.jpg`), then set the `photo` field in `content/site.json`:
+
+```json
+"about": {
+  "photo": "/images/logan.jpg",
+  ...
+}
+```
+
+The path always starts with `/images/...` — it maps directly to the `public/images/` folder. Leave `photo` as an empty string (`""`) to fall back to the initials placeholder that's there now. An external URL (e.g. `https://...`) also works if the photo is hosted elsewhere.
+
 ## Local development
 
 ```bash

@@ -70,7 +70,11 @@ export default function HomePage() {
           <div className="about-grid">
             <div className="player-card">
               <div className="player-photo">
-                <div className="num">{site.about.initials}</div>
+                {site.about.photo ? (
+                  <img src={site.about.photo} alt={site.about.name} />
+                ) : (
+                  <div className="num">{site.about.initials}</div>
+                )}
               </div>
               <div className="player-meta">
                 <div className="name">{site.about.name}</div>
