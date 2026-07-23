@@ -24,7 +24,7 @@ export default function HomePage() {
           <p className="tagline">{site.hero.tagline}</p>
           <div className="hero-ctas">
             <a href="#clips" className="btn btn-primary">
-              Read the Clips
+              Read the Articles
             </a>
             <a href="#contact" className="btn btn-ghost">
               Get in Touch
@@ -45,7 +45,7 @@ export default function HomePage() {
         <div className="wrap">
           <div className="section-head">
             <h2>The Beat Sheet</h2>
-            <div className="kicker">SELECTED CLIPS</div>
+            <div className="kicker">SELECTED ARTICLES</div>
           </div>
           {articles.length > 0 ? (
             <div className="clips">

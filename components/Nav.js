@@ -8,7 +8,7 @@ export default function Nav({ brand }) {
           {brand.first} <span>{brand.last}</span>
         </Link>
         <div className="navlinks">
-          <Link href="/#clips">Clips</Link>
+          <Link href="/#clips">Articles</Link>
           <Link href="/#about">About</Link>
           <Link href="/#contact">Contact</Link>
         </div>
